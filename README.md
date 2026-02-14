@@ -24,7 +24,16 @@
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white) |
 | **Tools** | ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
 
+---
+## 🚧 Work in Progress
 
+- My personal portfolio. 
+
+---
+
+## 📚 Currently Learning
+
+- Next.JS
 
 ---
 
