@@ -3,6 +3,7 @@
 💻 Freelance Web Developer | ⚛️ React | TypeScript | Next.js  
 
 Always looking for ways to expand my skills and create cool stuff. 
+--- 
 If you have an idea and want to collaborate, contact me. ✨ 
 
 ---
