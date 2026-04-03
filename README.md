@@ -1,8 +1,9 @@
-## Hi, I'm Maria 👋
+## Hi, I'm Maria 
 
-💻 I am a  Freelance Web Developer | ⚛️ React | TypeScript | Next.js  
+💻 Freelance Web Developer | ⚛️ React | TypeScript | Next.js  
 
-🚀 Passionate about learning new stuff and improving every day. 
+Always looking for ways to expand my skills and create cool stuff. 
+If you have an idea and want to collaborate, contact me. ✨ 
 
 ---
 
