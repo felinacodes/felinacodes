@@ -3,18 +3,13 @@
 💻 Freelance Web Developer | ⚛️ React | TypeScript | Next.js  
 
 <p align="center">
-  <a href="https://felina-portfolio.vercel.app">
+  <a href="https://maria-portfolio-notebook.vercel.app">
     <strong>Portfolio</strong>
   </a>
 </p>
 
 ---
 
-
-## 🌐 Connect
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/felina_codes)
-
----
 
 ## 🛠 Tech Stack
 
@@ -32,13 +27,13 @@
 ---
 ## 🚧 Work in Progress
 
-- My personal portfolio. 
+- 
 
 ---
 
 ## 📚 Currently Learning
 
-- Express
+- 
 
 ---
 
@@ -68,8 +63,5 @@
 ![](https://komarev.com/ghpvc/?username=felinacodes)
 
 ---
-
-### 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=felinacodes&no-frame=true&no-bg=true)
 
 
